@@ -6,7 +6,7 @@ int n,num;
 scanf("%d",&n);
 while(n>0)
 {
-scanf("%d",&num");
+scanf("%d",&num);
 for(i=2;i<num/2;i++)
 {
 if(num%i==0)
